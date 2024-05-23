@@ -17,6 +17,10 @@ public static void main(String[] args) {
 			no=(no/10);        //123456/10   = 12345.6
 			
 			System.out.print(reminder);
+			
+			System.out.println("Hello Mohan");
+			
+			
 
 }
 }}
